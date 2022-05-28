@@ -1,0 +1,39 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ddd;
+}
+
+#heading {
+    margin: 0 30px 0 30px;
+    font-size: 30px;
+    position: fixed;
+    background-color: white;
+    padding: 10px;
+}
+
+.footer {
+    margin: 0 30px 0 30px;
+    background-color: #eee;
+    top: 90%;
+    position: fixed;
+    display: inline;
+    padding: 10px;
+}
+
+#answers {
+    margin: 0 30px 0 30px;
+    padding: 10px;
+    background-color: #bbb;
+}
+
+.comments {
+    background-color: #e5e5e5;
+    margin: 5 40px 5 40px;
+    padding: 10px;
+    line-height: 5px;
+}
+
